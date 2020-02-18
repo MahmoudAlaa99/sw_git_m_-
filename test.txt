@@ -2,7 +2,11 @@
 <div id="footer">A tool called GIT</div>
 <mahmoud>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <fathy>
+=======
+<Asfar>
+>>>>>>> eb67ada27e87c67700d4effc38985e48b587ced9
 =======
 <Asfar>
 >>>>>>> eb67ada27e87c67700d4effc38985e48b587ced9
